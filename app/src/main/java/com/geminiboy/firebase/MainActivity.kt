@@ -5,6 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.ViewGroup
 import android.widget.Button
+import android.widget.Toast
 import com.geminiboy.firebase.databinding.ActivityMainBinding
 import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
@@ -29,6 +30,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.btnLogout.setOnClickListener {
             val intent = Intent(this, SignUpActivity::class.java)
+            Toast.makeText(this, "Berhasil Keluar", Toast.LENGTH_SHORT).show()
             startActivity(intent)
         }
     }
