@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "11802776802",
+    "project_id": "latihan-firebase-cc607",
+    "storage_bucket": "latihan-firebase-cc607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11802776802:android:23beddf2073f7e447cfabb",
+        "android_client_info": {
+          "package_name": "com.geminiboy.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11802776802-oipdqdef5u1lp8duquj8l6hll7mojem1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geminiboy.firebase",
+            "certificate_hash": "961febfa07bbaedb90102568fdb58fb4f735922d"
+          }
+        },
+        {
+          "client_id": "11802776802-8j203cs1pq5p8tg240oko0vc3aetg97e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYNTSlkkpc4VYAHLIp0ACmnsf2WG_MSlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11802776802-8j203cs1pq5p8tg240oko0vc3aetg97e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
